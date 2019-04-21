@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Météo</string>
+    <string name="loginText">Login</string>
+    <string name="pwdText">Mot de passe</string>
+    <string name="connexionButtonText">CONNEXION</string>
+    <string name="creerCompteText">CRÉER UN COMPTE</string>
+    <string name="welcomeText">Bienvenue sur mon app !</string>
+    <string name="errorBadLogin">identifiant incorrect</string>
+    <string name="errorBadPassword">mot de passe incorrect</string>
+    <string name="parametres">Paramètres</string>
+    <string name="meteo">Météo Grenoble</string>
+    <string name="profil">Mon Profil</string>
+    <string name="humidity">Humidité</string>
+    <string name="search">Changez de ville</string>
+    <string name="warning">Vous n\'êtes pas connecté(e) à internet</string>
+    <string name="notFound">Ville introuvable</string>
+    <string name="tmpminlabel">Min</string>
+    <string name="tmpmaxlabel">Max</string>
+    <string name="mesVilles">Voir mes villes</string>
+    <string name="addVille">Rechercher une ville pour l\'ajouter</string>
+    <string name="voirMeteo">Voir la météo</string>
+    <string name="voirHoraires">Voir les prévisions horaires</string>
+    <string name="masquerHoraires">Masquer les prévisions horaires</string>
+    <string name="afficherPrevisions">Voir les prochaines prévisions</string>
+    <string name="masquerPrevisions">Masquer les prévisions</string>
+</resources>
